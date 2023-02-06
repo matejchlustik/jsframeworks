@@ -1,0 +1,7 @@
+{
+  "name": "CameraIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
