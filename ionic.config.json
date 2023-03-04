@@ -1,0 +1,7 @@
+{
+  "name": "LocationIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
