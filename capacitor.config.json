@@ -1,0 +1,6 @@
+{
+  "appId": "com.chlustik.cameraionic",
+  "appName": "CameraIonic",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
