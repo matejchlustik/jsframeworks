@@ -1,0 +1,6 @@
+{
+  "appId": "com.chlustik.ionicLocation",
+  "appName": "IonicLocation",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
