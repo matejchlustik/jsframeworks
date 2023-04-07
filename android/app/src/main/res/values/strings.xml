@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">IonicExchangeRates</string>
+    <string name="title_activity_main">IonicExchangeRates</string>
+    <string name="package_name">com.chlustik.vueexchange</string>
+    <string name="custom_url_scheme">com.chlustik.vueexchange</string>
+</resources>

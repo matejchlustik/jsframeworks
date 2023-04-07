@@ -1,0 +1,6 @@
+{
+  "appId": "com.chlustik.vueexchange",
+  "appName": "IonicExchangeRates",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
